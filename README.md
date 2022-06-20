@@ -1,5 +1,5 @@
 # Reliable-Supply-Network-Design-with-Customer-Preferences
-This repository contains instances and codes used to generate the computational results in the paper titled "Reliable Supply Network Design with Customer Preferences" by Shakiba Eneyati and Osman Ozaltin.
+This repository contains instances and codes used to generate the computational results in the paper titled "Reliable Supply Network Design with Customer Preferences" by Shakiba Enayati and Osman Ozaltin.
 
 Build main-benders.cpp with CPLEX (tested for v12.9) to obtain the benders.exe file.
 
